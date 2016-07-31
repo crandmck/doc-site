@@ -1,0 +1,364 @@
+[
+
+
+
+
+{
+"title": "Tooltips",
+"tags": "formatting",
+"keywords": "popovers, tooltips, user interface text, glossaries, definitions",
+"url": "doccontribadding_tooltips.html",
+"summary": "You can add tooltips to any word, such as an acronym or specialized term. Tooltips work well for glossary definitions, because you don't have to keep repeating the definition, nor do you assume the reader already knows the word's meaning."
+},
+
+
+
+{
+"title": "Alerts",
+"tags": "formatting",
+"keywords": "notes, tips, cautions, warnings, admonitions",
+"url": "doccontribalerts.html",
+"summary": "You can insert notes, tips, warnings, and important alerts in your content. These notes make use of Bootstrap styling and are available through data references such as site.data.alerts.note."
+},
+
+
+
+{
+"title": "Code samples",
+"tags": "formatting",
+"keywords": "dcode samples syntax highlighting",
+"url": "doccontribcode_samples.html",
+"summary": "You can use fenced code blocks with the language specified after the first set of backtick fences."
+},
+
+
+
+{
+"title": "Commenting on files",
+"tags": "navigation",
+"keywords": "annotations, comments, feedback",
+"url": "doccontribcommenting_on_files.html",
+"summary": "You can add a button to your pages that allows people to add comments."
+},
+
+
+
+{
+"title": "Conditional logic",
+"tags": "single_sourcing",
+"keywords": "if else logic, conditions, conditional attributes, conditional filtering",
+"url": "doccontribconditional_logic.html",
+"summary": "You can implement advanced conditional logic that includes if statements, or statements, unless, and more. This conditional logic facilitates single sourcing scenarios in which you're outputting the same content for different audiences."
+},
+
+
+
+{
+"title": "Content reuse",
+"tags": "single_sourcing",
+"keywords": "includes, conref, dita, transclusion, transclude, inclusion, reference",
+"url": "doccontribcontent_reuse.html",
+"summary": "You can reuse chunks of content by storing these files in the includes folder. You then choose to include the file where you need it. This works similar to conref in DITA, except that you can include the file in any content type."
+},
+
+
+
+{
+"title": "FAQ layout",
+"tags": "special_layouts",
+"keywords": "frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse",
+"url": "doccontribfaq_layout.html",
+"summary": "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
+},
+
+
+
+
+
+{
+"title": "Glossary layout",
+"tags": "formattingspecial_layouts",
+"keywords": "definitions, glossaries, terms, style guide",
+"url": "doccontribglossary.html",
+"summary": "Your glossary page can take advantage of definitions stored in a data file. This gives you the ability to reuse the same definition in multiple places. Additionally, you can use Bootstrap classes to arrange your definition list horizontally."
+},
+
+
+
+{
+"title": "Links",
+"tags": "formattingnavigation",
+"keywords": "links, hyperlinks, cross references, related links, relationship tables",
+"url": "doccontribhyperlinks.html",
+"summary": "When creating links, you can use standard HTML or Markdown formatting. However, you can also implement an automated approach to linking that makes linking much less error-prone (meaning less chances of broken links in your output) and requiring less effort."
+},
+
+
+
+{
+"title": "Icons",
+"tags": "formatting",
+"keywords": "font icons, buttons, images, vectors, font awesome, glyphicons",
+"url": "doccontribicons.html",
+"summary": "You can integrate font icons through the Font Awesome and Glyphical Halflings libraries. These libraries allow you to embed icons through their libraries delivered as a link reference. You don't need any image libraries downloaded in your project."
+},
+
+
+
+{
+"title": "Images",
+"tags": "formatting",
+"keywords": "images, screenshots, vectors, svg, markdown syntax",
+"url": "doccontribimages.html",
+"summary": "Store images in the images folder and use the image.html include to insert images. This include has several options, including figcaptions, that extract the content from the formatting."
+},
+
+
+
+{
+"title": "Getting Started",
+"tags": "",
+"keywords": "",
+"url": "getting-started",
+"summary": ""
+},
+
+
+
+{
+"title": "Examples",
+"tags": "",
+"keywords": "",
+"url": "examples",
+"summary": ""
+},
+
+
+
+{
+"title": "Getting Started",
+"tags": "",
+"keywords": "",
+"url": "",
+"summary": ""
+},
+
+
+
+{
+"title": "Contributing",
+"tags": "",
+"keywords": "",
+"url": "contributing",
+"summary": ""
+},
+
+
+
+{
+"title": "Resources",
+"tags": "",
+"keywords": "",
+"url": "resources",
+"summary": ""
+},
+
+
+
+{
+"title": "Contributing to LoopBack documentation",
+"tags": "getting_started",
+"keywords": "LoopBack documentation",
+"url": "doccontribindex.html",
+"summary": "You can contribute to LoopBack documentation"
+},
+
+
+
+{
+"title": "LoopBack 3.0",
+"tags": "getting_started",
+"keywords": "LoopBack 3.0",
+"url": "doclb3index.html",
+"summary": "LoopBack 3.0 is not yet released.  This is a prototype for LoopBack 3.0 documentation site."
+},
+
+
+
+{
+"title": "LoopBack 2.x",
+"tags": "getting_started",
+"keywords": "LoopBack 2.x",
+"url": "doclb2index.html",
+"summary": "LoopBack 2.x"
+},
+
+
+
+{
+"title": "LoopBack Documentation",
+"tags": "getting_started",
+"keywords": "sample homepage",
+"url": "docindex.html",
+"summary": "This is proof-of-concept site for LoopBack open source docs, where the source is hosted in GitHub and served via Jekyll and GitHub Pages."
+},
+
+
+
+{
+"title": "Getting started with the Documentation Theme for Jekyll",
+"tags": "getting_started",
+"keywords": "Jekyll",
+"url": "doccontribjekyll_getting_started.html",
+"summary": "These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll."
+},
+
+
+
+{
+"title": "LoopBack Documentation",
+"tags": "getting_started",
+"keywords": "LoopBack",
+"url": "doclb2loopback_docs.html",
+"summary": "This is a prototype of the new open source LoopBack doc site"
+},
+
+
+
+{
+"title": "LoopBack Documentation",
+"tags": "getting_started",
+"keywords": "LoopBack",
+"url": "docloopback_docs.html",
+"summary": "This is a prototype of the new open source LoopBack doc site"
+},
+
+
+
+{
+"title": "Navtabs",
+"tags": "formatting",
+"keywords": "navigation tabs, hide sections, tabbers, interface tabs",
+"url": "doccontribnavtabs.html",
+"summary": "Navtabs provide a tab-based navagation directly in your content, allowing users to click from tab to tab to see different panels of content. Navtabs are especially helpful for showing code samples for different programming languages. The only downside to using navtabs is that you must use HTML instead of Markdown."
+},
+
+
+
+{
+"title": "Pages",
+"tags": "getting_startedformattingcontent_types",
+"keywords": "pages, authoring, exclusion, frontmatter",
+"url": "doccontribpages.html",
+"summary": "This theme primarily uses pages. You need to make sure your pages have the appropriate frontmatter. One frontmatter tag your users might find helpful is the summary tag. This functions similar in purpose to the shortdesc element in DITA."
+},
+
+
+
+
+
+
+
+{
+"title": "Series",
+"tags": "content_types",
+"keywords": "series, connected articles, tutorials, hello world",
+"url": "doccontribseries.html",
+"summary": "You can automatically link together topics belonging to the same series. This helps users know the context within a particular process."
+},
+
+
+
+{
+"title": "Sidebar Navigation",
+"tags": "getting_started",
+"keywords": "sidebar, accordion, yaml, iteration, for loop, navigation, attributes, conditional filtering",
+"url": "doccontribsidebar_navigation.html",
+"summary": "The sidebar navigation uses a jQuery component called Navgoco. The sidebar is a somewhat complex part of the theme that remembers your current page, highlights the active item, stays in a fixed position on the page, and more. This page explains a bit about how the sidebar was put together."
+},
+
+
+
+
+
+{
+"title": "Syntax highlighting",
+"tags": "formatting",
+"keywords": "rouge, pygments, prettify, color coding,",
+"url": "doccontribsyntax_highlighting.html",
+"summary": "You can apply syntax highlighting to your code. This theme uses pygments and applies color coding based on the lexer you specify."
+},
+
+
+
+{
+"title": "Tables",
+"tags": "formatting",
+"keywords": "datatables, tables, grids, markdown, multimarkdown, jquery plugins",
+"url": "doccontribtables.html",
+"summary": "You can format tables using either multimarkdown syntax or HTML. You can also use jQuery datatables (a plugin) if you need more robust tables."
+},
+
+
+
+{
+"title": "Tag archives overview",
+"tags": "navigation",
+"keywords": "archives, tagging",
+"url": "doccontribtag_archives_overview.html",
+"summary": "This is an overview to the tag archives section. Really the only reason this section is listed explicitly in the TOC here is to demonstrate how to add a third-level to the navigation."
+},
+
+
+
+{
+"title": "Tags",
+"tags": "navigation",
+"keywords": "tags, navigation, buttons, links, association",
+"url": "doccontribtags.html",
+"summary": "Tags provide another means of navigation for your content. Unlike the table of contents, tags can show the content in a variety of arrangements and groupings. Implementing tags in this Jekyll theme is somewhat of a manual process."
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "/samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "/myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "/test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]

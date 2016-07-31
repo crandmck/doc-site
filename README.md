@@ -1,2 +1,3 @@
-# doc-site
-POC for new LB doc site
+## POC LoopBack doc site
+
+This is a work in progress.
